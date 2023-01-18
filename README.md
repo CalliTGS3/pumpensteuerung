@@ -1,15 +1,6 @@
 
 > Diese Seite bei [https://callitgs3.github.io/pumpensteuerung/](https://callitgs3.github.io/pumpensteuerung/) öffnen
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/callitgs3/pumpensteuerung** suchen und importieren
-
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/callitgs3/pumpensteuerung/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
