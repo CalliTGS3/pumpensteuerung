@@ -1,6 +1,6 @@
 input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     basic.showNumber(Bodenfeuchte)
-    basic.pause(2000)
+    basic.pause(1000)
     basic.clearScreen()
 })
 function Pumpe_aus () {
@@ -17,7 +17,7 @@ input.onButtonEvent(Button.AB, input.buttonEventClick(), function () {
 })
 input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
     basic.showNumber(Sekunden_seit_gießen)
-    basic.pause(2000)
+    basic.pause(1000)
     basic.clearScreen()
 })
 function messe_Bodenfeuchte () {
