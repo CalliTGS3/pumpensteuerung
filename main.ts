@@ -1,6 +1,6 @@
 input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     basic.showNumber(Bodenfeuchte)
-    basic.pause(1000)
+    basic.pause(5000)
     basic.clearScreen()
 })
 function Pumpe_aus () {
